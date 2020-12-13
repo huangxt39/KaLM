@@ -1,6 +1,6 @@
 # KaLM
 
-This repo contains the code, data, and results for the [paper](https://arxiv.org/abs/2005.11768) "KaLM at SemEval-2020 Task 4: Knowledge-aware Language Models for Comprehension And Generation"
+This repo contains the code, data, and results for the [paper](https://www.aclweb.org/anthology/2020.semeval-1.67) "KaLM at SemEval-2020 Task 4: Knowledge-aware Language Models for Comprehension And Generation"
 
 ## Something Important
 The official released results of SemEval-2020 Task 4 is [here](http://bit.ly/semeval2020-task4-results). Our team name is "LuoJunNB". (LuoJun is the name of the president of SYSU)
